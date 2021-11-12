@@ -16,7 +16,15 @@ python
 ## Detector
 
 ### Download Detector'weight file
+```python
+http:
+```
 
+
+### detect images
+```python
+python 
+```
 
 ##### 五级标题
 ###### 六级标题
