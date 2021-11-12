@@ -1,0 +1,5 @@
+python run_generator.py generate-images  --seeds=6600-6609 --truncation-psi=1.0 --label=0
+
+
+python yolo_video.py
+
