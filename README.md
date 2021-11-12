@@ -4,6 +4,14 @@ Bubbly-flow-image-generator
 ## Generator
 
 ### Download Generator'weight file
+` ``
+http:
+` ``
+
+### Generate images
+` ``
+python 
+` ``
 
 ## Detector
 
