@@ -1,7 +1,5 @@
 Bubbly-flow-image-generator
-
-
-# Bubbly-flow-image-generator
+=====
 
 ## Generator
 
