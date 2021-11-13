@@ -266,16 +266,3 @@ Run 'python %(prog)s <subcommand> --help' for subcommand help.''',
 if __name__ == "__main__":
 
     main_v2()
-
-#----------------------------------------------------------------------------
-# if __name__ == "__main__":
-    
-#     png='results'
-#     network_pkl='/data/XBB_data/label_16_256/network-snapshot-001504.pkl'
-#     print('Loading networks from "%s"...' % network_pkl)
-#     _G, _D, Gs = pretrained_networks.load_networks(network_pkl)
-#     seeds=[1]
-#     psis=[1]
-#     labels_exist = True
-    
-#     draw_truncation_trick_figure(png,Gs,seeds,psis,labels_exist)

@@ -1,0 +1,167 @@
+dnnlib: Running run_generator.generate_images() on localhost...
+Loading networks from "pkl/bubbly_flow.pkl"...
+Setting up TensorFlow plugin "fused_bias_act.cu": Preprocessing... Loading... Done.
+Setting up TensorFlow plugin "upfirdn_2d.cu": Preprocessing... Loading... Done.
+<dnnlib.tflib.network.Network object at 0x7f7a2dbf5d30>
+<dnnlib.tflib.network.Network object at 0x7f7a2dbf5d30>
+Generating image for seed 6600 (0/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6601 (1/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6602 (2/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6603 (3/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6604 (4/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6605 (5/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6606 (6/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6607 (7/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6608 (8/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6609 (9/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6610 (10/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6611 (11/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6612 (12/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6613 (13/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6614 (14/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6615 (15/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6616 (16/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6617 (17/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6618 (18/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+Generating image for seed 6619 (19/20) ...
+(1, 128)
+128
+
+[1. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+(1, 512, 512, 1)
+[512 512   1]
+[512 512]
+dnnlib: Finished run_generator.generate_images() in 19s.

@@ -22,7 +22,7 @@ import math
 
 class YOLO(object):
     _defaults = {
-        "model_path": 'model_data/final.h5',
+        "model_path": 'model_data/detector.h5',
         "anchors_path": 'model_data/yolo_anchors.txt',
         "classes_path": 'model_data/coco_classes.txt',
         "score" : 0.03,

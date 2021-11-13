@@ -1,1 +1,0 @@
-{'host_name': 'localhost', 'start_time': '2021-11-10 13:49:01.090056', 'stop_time': '2021-11-10 13:49:01.090183', 'task_name': 'amax-00000-generate-images'}
