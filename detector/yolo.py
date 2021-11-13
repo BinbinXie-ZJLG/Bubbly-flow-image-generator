@@ -44,9 +44,8 @@ class YOLO(object):
         full_path=path+name+'.txt'
         file=open(full_path,'a')
         msg=[label,left,top,right,bottom]
-        volume=(right-left)*(bottom-top)*(right-left+bottom-top)/12*math.pi
         # print(msg)
-        file.writelines(str(msg)+' volume:'+str(volume)+'\n')
+        file.writelines(str(msg)+'\n')
         file.close()
     ''
     def __init__(self, **kwargs):
