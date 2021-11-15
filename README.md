@@ -1,6 +1,14 @@
 Bubbly-flow-image-generator
 =====
 
+
+### The environment is
+
+Python 3.5.2
+Keras 2.2.5
+tensorflow 1.14.0
+CUDA 10.0 toolkit and cuDNN 7.5.
+
 ## Generator
 
 ### Download Generator'weight file
@@ -26,7 +34,7 @@ https://drive.google.com/drive/folders/1pf8xs7YfFcBtIA2gkDX2IY4PfXV0QEKA?usp=sha
 ```
 
 ### detect images
-##### Don't forget to put the weight file in the “model_data” folder
+##### Don't forget to put the weight file into the “model_data” folder
 ```python
 python yolo_video.py
 ```
