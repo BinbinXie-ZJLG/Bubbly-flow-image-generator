@@ -11,7 +11,7 @@ CUDA 10.0 toolkit and cuDNN 7.5.
 
 ## Generator
 
-### Download Generator'weight file
+### Download Generator'weights file
 ```python
 https://drive.google.com/drive/folders/1pf8xs7YfFcBtIA2gkDX2IY4PfXV0QEKA?usp=sharing
 ```
@@ -28,13 +28,13 @@ python run_generator.py generate-images  --seeds=6600-6609 --truncation-psi=1.0 
 
 ## Detector
 
-### Download Detector'weight file
+### Download Detector'weights file
 ```python
 https://drive.google.com/drive/folders/1pf8xs7YfFcBtIA2gkDX2IY4PfXV0QEKA?usp=sharing
 ```
 
 ### detect images
-##### Don't forget to put the weight file into the “model_data” folder
+##### Don't forget to put the weights file into the “model_data” folder
 ```python
 python yolo_video.py
 ```
