@@ -38,6 +38,6 @@ https://drive.google.com/drive/folders/1pf8xs7YfFcBtIA2gkDX2IY4PfXV0QEKA?usp=sha
 ```python
 python yolo_video.py
 ```
-
+    - The detection results and labels are saved in folders "results" and "output" respectively
 
 
