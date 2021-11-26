@@ -35,9 +35,8 @@ https://drive.google.com/drive/folders/1pf8xs7YfFcBtIA2gkDX2IY4PfXV0QEKA?usp=sha
 
 ### detect images
 ##### Don't forget to put the weights file into the “model_data” folder
+##### The detection results and labels are saved in folders "results" and "output" respectively
 ```python
 python yolo_video.py
 ```
-    - The detection results and labels are saved in folders "results" and "output" respectively
-
 
